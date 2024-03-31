@@ -14,7 +14,6 @@ Thank you for visiting my GitHub profile! Let me brief about myself,
 
 -Published 2 International and 1 National Research Paper in the field of Data Science.
 
- Feel free to connect/collabrate with me through rbaldania2103@gmail.com or 
- ###https://www.linkedin.com/in/rachana-baldania-0435827b/ 
+ ### Feel free to connect/collabrate with me through rbaldania2103@gmail.com or https://www.linkedin.com/in/rachana-baldania-0435827b/ 
 
 Thank you 🙋‍♀️
