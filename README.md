@@ -16,6 +16,7 @@ Thank you for visiting my GitHub profile! Let me brief about myself,
 https://ieeexplore.ieee.org/document/8465346
 https://ieeexplore.ieee.org/document/8275938/
 (Page no 27): https://git.org.in/wp-content/uploads/2017/05/JET-Journal-of-Engineering-and-Technology-2016.pdf
+https://www.researchgate.net/profile/Rachana-Baldania/amp
 
  ### Feel free to connect/collaborate with me through rbaldania2103@gmail.com or https://www.linkedin.com/in/rachana-baldania-0435827b/ 
 
