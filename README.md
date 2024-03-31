@@ -12,7 +12,10 @@ Thank you for visiting my GitHub profile! Let me brief about myself,
 
 -Completed 20+ Certifications and Courses done in Data Science.
 
--Published 2 International and 1 National Research Paper in the field of Data Science.
+-Published 2 International and 1 National Research Paper in the field of Data Science:
+https://ieeexplore.ieee.org/document/8465346
+https://ieeexplore.ieee.org/document/8275938/
+(Page no 27): https://git.org.in/wp-content/uploads/2017/05/JET-Journal-of-Engineering-and-Technology-2016.pdf
 
  ### Feel free to connect/collabrate with me through rbaldania2103@gmail.com or https://www.linkedin.com/in/rachana-baldania-0435827b/ 
 
